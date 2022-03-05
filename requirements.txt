@@ -1,0 +1,12 @@
+certifi==2019.3.9
+chardet==3.0.4
+idna==2.8
+python-dateutil==2.8.0
+python-redmine==2.2.1
+pytz==2018.9
+requests==2.21.0
+rocket-python==1.2.5
+rocketchat-API==0.6.28
+six==1.12.0
+urllib3==1.24.1
+wincertstore==0.2
